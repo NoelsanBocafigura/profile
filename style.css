@@ -29,11 +29,12 @@ body {
 .main-space h1 { 
     text-transform: uppercase; 
     font-weight: 800; 
-    font-size: clamp(1.2rem, 5vw, 22px); 
+    font-size: clamp(1.1rem, 4vw, 18px); 
     font-family: Sans-Serif; 
     color: white; 
     margin-top: 0;
-    margin-bottom: 5px; 
+    margin-bottom: 5px;
+    line-height: 1.2;
 }
 
 .main-space p { 
