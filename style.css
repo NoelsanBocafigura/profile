@@ -60,7 +60,9 @@ body {
     width: 100%;
     max-width: 300px; 
     padding: 12px;
-    color: white; 
+    color: white;
+
+    -webkit-tap-highlight-color: transparent;
     
     /* These ensure the link acts like a button */
     text-decoration: none; 
